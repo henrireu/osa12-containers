@@ -1,0 +1,12 @@
+Script started on 2025-01-15 11:35:42+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;henri@LAPTOP-9VI55CH5: ~[01;32mhenri@LAPTOP-9VI55CH5[00m:[01;34m~[00m$ [7mdocker run -it ubuntu bash[27mdocker run -it ubuntu bash
+[?2004l[?2004h]0;root@b18654013b2b: /root@b18654013b2b:/# mkdir /usr/src/app
+[?2004l[?2004h]0;root@b18654013b2b: /root@b18654013b2b:/# ls
+[?2004l[0m[01;36mbin[0m  [01;34mboot[0m  [01;34mdev[0m  [01;34metc[0m  [01;34mhome[0m  [01;36mlib[0m  [01;36mlib64[0m  [01;34mmedia[0m  [01;34mmnt[0m  [01;34mopt[0m  [01;34mproc[0m  [01;34mroot[0m  [01;34mrun[0m  [01;36msbin[0m  [01;34msrv[0m  [01;34msys[0m  [30;42mtmp[0m  [01;34musr[0m  [01;34mvar[0m
+[?2004h]0;root@b18654013b2b: /root@b18654013b2b:/# echo '' > /usr/src/app/index.js
+[?2004l[?2004h]0;root@b18654013b2b: /root@b18654013b2b:/# [Kexit
+[?2004lexit
+[?2004h]0;henri@LAPTOP-9VI55CH5: ~[01;32mhenri@LAPTOP-9VI55CH5[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2025-01-15 11:39:03+02:00 [COMMAND_EXIT_CODE="0"]
